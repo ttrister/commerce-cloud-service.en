@@ -334,7 +334,7 @@ Instead of modifying an existing alert, you can create an alert policy. Then, co
 
 >[!TIP]
 >
->See [Introduction to alerts][] in the _New Relic_ documentation for more detailed information about Alerts, alert policies, and workflows.
+>See [Introduction to alerts] in the _New Relic_ documentation for more detailed information about Alerts, alert policies, and workflows.
 
 <!-- link definitions -->
 
