@@ -23,11 +23,11 @@ You must have an [Admin role](../project/user-access.md) for the environment.
 1. In the top pane, click the **[!UICONTROL Snapshots]** icon. This option is not available for a Pro Production or Staging environment.
 1. Click **Create**.
 
-**To create a snapshot using the `magento-cloud` CLI**:
+**To create a snapshot**:
 
-1. On your local workstation, change to your project directory.
-1. Check out the environment branch to snapshot.
-1. Create the snapshot.
+
+1. On your local workstation, enter the directory that contains the project code.
+1. Using the `magento-cloud` CLI create the snapshot.
 
    ```bash
    magento-cloud snapshot:create --live
